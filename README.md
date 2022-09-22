@@ -34,3 +34,11 @@ DAY 3
 8. anagram
 9. string s and a 
 10. operations required
+
+DAY 4
+1. indexed
+2. Valid Palindrome
+3. minimum number of jumps 
+4. Remove character in a string
+5. Vowel
+6. seasons
