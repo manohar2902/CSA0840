@@ -4,7 +4,7 @@ DAY 1
 2. odd,even
 3. Happy number
 4. palindrome
-5. loves purchased
+5. bread problem
 6. maximum area
 7. vowels
 8. valid number
