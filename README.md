@@ -14,7 +14,7 @@ DAY 1
 DAY 2
 1. climbing 
 2. leap year
-3. maximum nnumber of words found
+3. maximum number of words found
 4. Merge Two Sorted Lists
 5. Basic Calculator
 6. 6th
