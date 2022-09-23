@@ -44,3 +44,5 @@ DAY 4
 6. seasons
 7. roman to int 
 8. scramble strings
+9. student 
+10. smaller than the current number
