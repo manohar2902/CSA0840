@@ -42,3 +42,4 @@ DAY 4
 4. Remove character in a string
 5. Vowel
 6. seasons
+7. roman to int 
