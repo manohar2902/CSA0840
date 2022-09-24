@@ -58,3 +58,7 @@ DAY 5
 8. Longest Substring
 9. NxN
 10. 
+
+DAY 6 
+1. number of factors for n number
+
