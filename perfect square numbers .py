@@ -1,17 +1,14 @@
+def getMinSquares(n):
+	if n <= 3:
+		return n;
+	res = n
+	for x in range(1, n + 1):
+		temp = x * x;
+		if temp > n:
+			break
+		else:
+			res = min(res, 1 + getMinSquares(n- temp))
 
-def findMinSquares(n):
-    T = [0] * (n + 1)
-    for i in range(n + 1):
-        T[i] = i
-        j = 1
-        while j * j <= i:
-
-            T[i] = min(T[i], 1 + T[i - j * j])
-            j += 1
-
-    return T[n]
-
-
-if __name__ == '__main__':
-    n = 13
-    print('The minimum number of squares is', findMinSquares(n))
+	return res;
+s=int(input("enter the number"))
+print(getMinSquares(s))
