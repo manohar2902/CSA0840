@@ -51,3 +51,5 @@ DAY 5
 1. Robert problem
 2. perfect square numbers
 3. reverse words in string
+4. length of the string
+5. bonus on salary
