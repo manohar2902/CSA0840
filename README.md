@@ -53,3 +53,8 @@ DAY 5
 3. reverse words in string
 4. length of the string
 5. bonus on salary
+6. peak element
+7. sum of elements in the nth row
+8. Longest Substring
+9. NxN
+10. 
