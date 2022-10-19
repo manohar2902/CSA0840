@@ -61,4 +61,5 @@ DAY 5
 
 DAY 6 
 1. number of factors for n number
-
+2. Pythagorean
+3. 
